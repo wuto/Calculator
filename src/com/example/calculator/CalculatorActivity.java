@@ -14,6 +14,7 @@ import android.widget.EditText;
 
 public class CalculatorActivity extends Activity implements OnClickListener{
 
+	
 	EditText rsText = null;  //显示器
 	boolean isClear = false; //用于是否显示器需要被清理
 	@Override
